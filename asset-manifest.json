@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.09b082af.css",
+    "main.js": "/static/js/main.f1b21d1e.js",
+    "static/media/avatar.jpg": "/static/media/avatar.47a23903995531f240cc.jpg",
+    "static/media/nextcloud.png": "/static/media/nextcloud.6f831a57a3e67d27fcea.png",
+    "static/media/steam.jpg": "/static/media/steam.448a024bb36640aee9a2.jpg",
+    "static/media/byzocker-de.png": "/static/media/byzocker-de.fbaac1b6c9aefedfd80b.png",
+    "static/media/twitch.jpg": "/static/media/twitch.aed3b0e14d12818a61d7.jpg",
+    "static/media/upptime.webp": "/static/media/upptime.f6fd49287db4f714e55d.webp",
+    "index.html": "/index.html",
+    "main.09b082af.css.map": "/static/css/main.09b082af.css.map",
+    "main.f1b21d1e.js.map": "/static/js/main.f1b21d1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09b082af.css",
+    "static/js/main.f1b21d1e.js"
+  ]
+}
